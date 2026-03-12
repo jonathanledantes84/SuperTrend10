@@ -1,0 +1,5 @@
+{
+  "name": "SuperTrend Bybit Bot",
+  "description": "Automated trading bot for Bybit Spot using the SuperTrend indicator with AI-powered market analysis.",
+  "requestFramePermissions": []
+}
